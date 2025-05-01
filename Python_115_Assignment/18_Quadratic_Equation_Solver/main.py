@@ -24,4 +24,4 @@ else:
         print("One real and repeated root:")
         print("Root =", root)
     else:
-        print("The equation has complex (imaginary) roots.")
+        print("The equation has two complex roots.")
